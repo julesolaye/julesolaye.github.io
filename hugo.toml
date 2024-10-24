@@ -1,4 +1,4 @@
-baseURL = 'https://votre-utilisateur.github.io/'
+baseURL = 'https://julesolaye.github.io/'
 publishDir = "docs"
 languageCode = 'en-us'
 title = "Jules Olayé's website"
