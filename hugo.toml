@@ -1,4 +1,5 @@
 baseURL = 'https://votre-utilisateur.github.io/'
+publishDir = "docs"
 languageCode = 'en-us'
 title = "Jules Olayé's website"
 theme = 'typo'
