@@ -15,3 +15,5 @@ Behavior", Marseille, 2024.
 - "Launching of the Project-team MERGE", Palaiseau, 2024.
 - "13th European Conference on Mathematical and Theoretical Biology", Toledo, 2024.
 - "Kick-oﬀ meeting of the PEPR Maths VivES DyLT project", Paris, 2024.
+- "Oberseminar Analysis", Bonn, 2024.
+- "MERGE Seminar", Palaiseau, 2024.
