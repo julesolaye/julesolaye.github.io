@@ -22,12 +22,12 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Welcome!'
 homeIntroContent = """
-My name is Jules Olayé. I am a Ph.D. student at Ecole Polytechnique, Palaiseau, France, working under the supervision of Marie Doumic and Milica Tomašević. I am interested in the study of mathematical models coming from biology, with both stochastic and deterministic approaches.
+My name is Jules Olayé. I am a Ph.D. student at Ecole Polytechnique, Palaiseau, France, working under the supervision of Marie Doumic and Milica Tomašević. I am interested in the study of mathematical models coming from biology, with both deterministic and stochastic approaches.
 
 ## Research topics
-- Asymptotic analysis of branching processes,
-- Inverse problems,
-- Cell dynamics,
+- Integro-differential equations,
+- Age-dependent branching processes,
+- Density estimation,
 - Applications to biology.
 """
 

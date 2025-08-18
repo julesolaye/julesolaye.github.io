@@ -10,6 +10,7 @@ Here is the different communications I have done until now.
 Behavior", Marseille, 2024.
 - "Mathematical Biology: Collective Behavior and Pattern Formation", Marseille, 2024.
 - "Conference for the 50th anniversary of the CMAP", Palaiseau, 2024.
+- "Emerging Connections between Reaction-Diffusion, Branching Processes, and Biology", Banff, 2025.
 
 ### Talks
 - "Launching of the Project-team MERGE", Palaiseau, 2024.
@@ -17,3 +18,4 @@ Behavior", Marseille, 2024.
 - "Kick-oﬀ meeting of the PEPR Maths VivES DyLT project", Paris, 2024.
 - "Oberseminar Analysis", Bonn, 2024.
 - "MERGE Seminar", Palaiseau, 2024.
+- "Les probabilités de demain", Paris, 2025.
