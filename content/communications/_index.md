@@ -19,3 +19,7 @@ Behavior", Marseille, 2024.
 - "Oberseminar Analysis", Bonn, 2024.
 - "MERGE Seminar", Palaiseau, 2024.
 - "Les probabilités de demain", Paris, 2025.
+- "MUSCA Meeting", Paris, 2025.
+- "Grupo de Estadística, Probabilidad y Análisis de Datos", Online, 2025.
+- "Workshop MUSEUM", Montpellier, 2026.
+- "PDE Team day", Toulouse, 2026.

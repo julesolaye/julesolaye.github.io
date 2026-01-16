@@ -22,12 +22,13 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Welcome!'
 homeIntroContent = """
-My name is Jules Olayé. I am a Ph.D. student at Ecole Polytechnique, Palaiseau, France, working under the supervision of Marie Doumic and Milica Tomašević. I am interested in the study of mathematical models coming from biology, with both deterministic and stochastic approaches.
+My name is Jules Olayé. I am actually a postdoctoral reasearcher at Institut de Mathematiques de Toulouse, under the supervision of Sepideh Mirrahimi and Pascal Maillard. I work on the limit in large population of the Hopf-Cole transform of branching-coalescing Brownian motions. Previously, I was a Ph.D. student at Ecole Polytechnique, under the supervision of Marie Doumic and Milica Tomašević. My Ph.D. thesis was on the study of stochastic and deterministic models related to the biological phenomenon of telomere shortening.
 
 ## Research topics
+- Branching processes,
 - Integro-differential equations,
-- Age-dependent branching processes,
-- Density estimation,
+- Inverse problems,
+- Wright-Fisher stochastic partial differential equation, 
 - Applications to biology.
 """
 
