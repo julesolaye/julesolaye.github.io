@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:34435/communications/</loc>
+    <loc>http://localhost:1313/communications/</loc>
   </url><url>
-    <loc>http://localhost:34435/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
   </url><url>
-    <loc>http://localhost:34435/resume/</loc>
+    <loc>http://localhost:1313/resume/</loc>
   </url><url>
-    <loc>http://localhost:34435/g-xxxxxxxxx/</loc>
+    <loc>http://localhost:1313/g-xxxxxxxxx/</loc>
   </url><url>
-    <loc>http://localhost:34435/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:34435/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
